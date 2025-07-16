@@ -4,3 +4,4 @@ console.log(typeof undefined) // its undefined
 
 let name = "Naman"
 let age = 20
+let age > 21 = False 
